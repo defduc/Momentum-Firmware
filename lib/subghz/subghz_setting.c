@@ -12,7 +12,7 @@
 /* Default */
 static const uint32_t subghz_frequency_list[] = {
     /* 300 - 348 */
-    300000000,
+    200000000,
     302757000,
     303875000,
     303900000,
